@@ -43,7 +43,7 @@ To get started, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/Poyamohamadi/metric_helper.git
-cd metric-helper
+cd metric_helper
 ```
 
 ---
@@ -96,6 +96,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Program Demo
 
+![Metric Helper](https://github.com/Poyamohamadi/Metric_Helper/blob/main/demo.gif)
 
 ---
 
