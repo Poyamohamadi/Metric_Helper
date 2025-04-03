@@ -90,7 +90,7 @@ Please ensure your code adheres to the existing style and includes appropriate d
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Poyamohamadi/Metric_Helper/blob/main/LICENSE.md) file for more details.
 
 ---
 
