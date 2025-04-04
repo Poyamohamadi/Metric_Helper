@@ -9,9 +9,10 @@ Metric Helper is a simple desktop application built using **CustomTkinter** that
 1. [Features](#features)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Dependencies](#dependencies)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Structure](#structure)
+5. [Dependencies](#dependencies)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ---
 
@@ -69,12 +70,33 @@ cd metric_helper
 
 ---
 
+## Structure
+
+The code is organized into the following components:
+
+1. **Main Application Class (`MyApp`)**:
+   - Inherits from `customtkinter.CTk` to create the main application window.
+   - Initializes the GUI elements such as input/output fields, comboboxes, and buttons.
+
+2. **GUI Elements**:
+   - **Input Field**: For entering the numerical value.
+   - **Comboboxes**: Dropdown menus for selecting metric prefixes.
+   - **Convert Button**: Triggers the conversion logic.
+   - **Output Field**: Displays the converted value.
+
+3. **Conversion Logic (`convert` Method)**:
+   - Uses a dictionary (`metric_values`) to map metric prefixes to their respective powers of 10.
+   - Converts the input value to its base unit and then to the desired output prefix.
+
+4. **Main Execution Block**:
+   - Ensures the application runs only when executed directly.
+
+---
+
 ## Dependencies
 
-This project relies on the following Python library:
-
-- **CustomTkinter**: A modern, customizable GUI library based on Tkinter. Install it using:
-
+- **Python**: Version 3.6 or higher.
+- **customtkinter**: A modern GUI library for Python. Install it using:
   ```bash
   pip install customtkinter
   ```
