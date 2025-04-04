@@ -15,6 +15,12 @@ Metric Helper is a simple desktop application built using **CustomTkinter** that
 
 ---
 
+## Program Demo
+
+![Metric Helper](https://github.com/Poyamohamadi/Metric_Helper/blob/main/demo.gif)
+
+---
+
 ## Features
 
 - **Metric Conversion**: Convert values between various metric prefixes ranging from `femto` (10⁻¹⁵) to `peta` (10¹⁵).
@@ -91,12 +97,6 @@ Please ensure your code adheres to the existing style and includes appropriate d
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Poyamohamadi/Metric_Helper/blob/main/LICENSE.md) file for more details.
-
----
-
-## Program Demo
-
-![Metric Helper](https://github.com/Poyamohamadi/Metric_Helper/blob/main/demo.gif)
 
 ---
 
