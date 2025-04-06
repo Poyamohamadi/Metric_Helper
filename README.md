@@ -124,13 +124,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 
 ## Acknowledgments
 
-I would like to express my gratitude to the following individuals, organizations, and resources that have contributed to the development of this project:
+- **CustomTkinter Library**: Thanks to the developers of `customtkinter` for creating a modern and customizable GUI toolkit.
 
-1. **CustomTkinter Community**:
-   - Special thanks to the developers and contributors of the [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) library for creating such a powerful and modern GUI toolkit. It has made building visually appealing desktop applications in Python much easier.
-
-2. **Python Community**:
-   - The Python community continues to inspire with its vast ecosystem of libraries and tools. This project would not have been possible without the robust foundation provided by Python.
+- **Python Community**: Special thanks to the Python community for their support and resources.
 
 ---
 
